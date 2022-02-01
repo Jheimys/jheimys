@@ -1,6 +1,6 @@
 ### Olá! eu sou James Bassani
 
-- ⚡ Estou iniciando meus estudos em programação com foco em: 
+- ⚡ Estou iniciando meus estudos em programação com foco em:
 •	HTML 5, 
 •	CSS 3,
 •	Javascript, 
@@ -24,7 +24,7 @@
   ##
   
   <div>
-  <a href="https://instagram.com/jheimysbassani?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></    <!--    
+  <a href="https://instagram.com/jheimysbassani?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>       
   <a href = "mailto:jheimysbb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jheimys" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
