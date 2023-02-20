@@ -1,10 +1,10 @@
 ### Olá! eu sou James Bassani
 
-- ⚡ Estou iniciando meus estudos em programação com foco em:
-•	HTML 5, 
-•	CSS 3,
-•	Javascript, 
-•	NodeJs
+⚡ Estou iniciando meus estudos em programação com foco em:
+-	HTML 5, 
+-	CSS 3,
+-	Javascript, 
+-	NodeJs
 
 😄 Pronouns: ele/dele
 <div align = "center">
