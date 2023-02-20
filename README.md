@@ -1,4 +1,4 @@
-### Olá! eu sou James Bassani
+### Olá! eu sou Jheimys Bassani
 
 ⚡ Estou iniciando meus estudos em programação com foco em:
 -	HTML 5, 
