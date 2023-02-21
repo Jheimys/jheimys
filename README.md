@@ -1,4 +1,4 @@
-### Hi! I'm Jheimys Bassani
+### Hi devs! I'm Jheimys Bassani
 
 ⚡ Estou iniciando meus estudos em programação com foco em:
 -	HTML 5, 
