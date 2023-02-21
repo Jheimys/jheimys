@@ -1,6 +1,6 @@
 ### Hi devs! I'm Jheimys Bassani
 
-⚡ Estou iniciando meus estudos em programação com foco em:
+⚡ Sou um desenvolvedor em formação! Gosto MUITO da área de tecnologia, Estou sempre me desafiando com novos projetos minhas principais  habilidades são:
 -	HTML 5, 
 -	CSS 3,
 -	Javascript, 
