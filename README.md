@@ -1,6 +1,6 @@
 ### Hi devs! I'm Jheimys Bassani
 
-⚡ Sou um desenvolvedor em formação! Gosto MUITO da área de tecnologia, Estou sempre me desafiando com novos projetos minhas principais  habilidades são:
+⚡ I’m a software developer interested in new technologies and new challenges. My main skills are:
 -	HTML 5, 
 -	CSS 3,
 -	Javascript, 
