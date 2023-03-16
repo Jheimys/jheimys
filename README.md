@@ -1,4 +1,4 @@
-### Hi devs! I'm Jheimys Bassani
+### Hi devs! I'm James Bassani
 
 ⚡ I’m a software developer interested in new technologies and new challenges. My main skills are:
 -	HTML 5, 
