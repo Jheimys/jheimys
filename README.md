@@ -10,8 +10,8 @@
   
 <div align = "center">
   <a href="https://github.com/jheimys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheimys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheimys&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheimys&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheimys&layout=compact&langs_count=7&theme=transparent"/> 
    <br><br>
  <img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="20%" /><img src="https://streak-stats.demolab.com?user=jheimys&theme=synthwave" width="50%"/>
 <img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="20%" /> 
