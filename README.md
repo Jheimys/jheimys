@@ -1,5 +1,10 @@
 ### Hi devs! I'm James Bassani
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+my+profile!;My+name+is+Jmaes+Bassani.)](https://git.io/typing-svg)
+</div>
+
 ⚡ I’m a software developer interested in new technologies and new challenges. My main skills are:
 -	HTML 5, 
 -	CSS 3,
@@ -8,6 +13,7 @@
 
 😄 Pronouns: Him/his
 
+// Gráfico
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jheimys&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div align = "center">
