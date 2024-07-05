@@ -5,7 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+my+profile!;My+name+is+James+Bassani.)](https://git.io/typing-svg)
 </div>
 
-
+<div>
+  <p>
+   I hold a Master's in Mathematics with degrees in Information Systems and Mathematics. I am proficient in frontend technologies including HTML, CSS, JavaScript, and React, as well as   backend technologies such as Node.js, MongoDB, and PostgreSQL. I have over 15 years of experience in team coordination and teaching Mathematics/Robotics, more than 2 years of experience as a Frontend Developer, and I have worked as a QA Analyst Trainee.
+  </p>
+</div>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jheimys&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
