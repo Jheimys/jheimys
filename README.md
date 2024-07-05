@@ -5,11 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+my+profile!;My+name+is+James+Bassani.)](https://git.io/typing-svg)
 </div>
 
-<p>
- Master's in Mathematics with degrees in Information Systems and Mathematics | Proficient in Test Design, Web Application Testing, API Testing, Jira, Agile, CLI, SQL Basics, Cypress, and 
- others| Proficient in frontend (HTML, CSS, JavaScript, React) and backend (Node.js, MongoDB, PostgreSQL)| +15 years experience in team coordination and teaching Mathematics/Robotics| +2 
- years of experience as Frontend Developer | QA Analyst TraineeMaster's
-</p>
+
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jheimys&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
